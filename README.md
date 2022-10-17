@@ -21,4 +21,4 @@
 
 
 ## API 설계
-![5i 지원금 예측_api (1)](https://user-images.githubusercontent.com/113044908/196099961-e855dfe7-c09b-4a51-8790-473e34d9148f.PNG)
+![5i 회식비 신청_api](https://user-images.githubusercontent.com/113044908/196100488-8e03ca7b-30c2-4f79-93ff-fe14b5e251b6.PNG)
